@@ -2,7 +2,7 @@
 <h3 align="center">Passionate IT student | Exploring the Boundless Word of Technology</h3>
 
 # 💫 About Me:
-🎓 I’m currently studying at the University of Belgrade – Faculty of Organizational Sciences (FON)<br><br>💻 Currently working on: University projects and personal coding challenges<br><br>👯 Looking to collaborate on: Open-source projects, beginner-friendly repos, and hackathons<br><br>🤝 Looking for help with: Improving my Git/GitHub workflow and mastering backend development<br><br>🌱 Currently learning: Java, Python, and data structures & algorithms<br><br>💬 Ask me about: My favorite tech stacks, productivity tips, or student life in tech
+🎓 I’m currently studying at the University of Belgrade – Faculty of Organizational Sciences (FON)<br><br>💻 Currently working on: University projects and personal coding challenges<br><br>👯 Looking to collaborate on: Open-source projects, beginner-friendly repos, and hackathons<br><br>🤝 Looking for help with: Improving my Git/GitHub workflow and mastering backend development<br><br>🌱 Currently learning: Python, OOP in Java and data structures & algorithms<br><br>💬 Ask me about: My favorite tech stacks, productivity tips, or student life in tech
 
 
 ## 🌐 Socials:
