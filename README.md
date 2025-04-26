@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Milicevic</h1>
 <h3 align="center">Passionate IT student | Exploring the Boundless Word of Technology</h3>
 
-# 💫 About Me:
+# <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me:</h1>
 🎓 I’m currently studying at the University of Belgrade – Faculty of Organizational Sciences (FON)<br><br>💻 Currently working on: University projects and personal coding challenges<br><br>👯 Looking to collaborate on: Open-source projects, beginner-friendly repos, and hackathons<br><br>🤝 Looking for help with: Improving my Git/GitHub workflow and mastering backend development<br><br>🌱 Currently learning: Python, OOP in Java and data structures & algorithms<br><br>💬 Ask me about: My favorite tech stacks, productivity tips, or student life in tech
 
 
