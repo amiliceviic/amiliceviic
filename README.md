@@ -34,6 +34,9 @@
   <a href="https://instagram.com/a.miliceviic" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
+  <a href="https://leetcode.com/u/a_miliceviic/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
+  </a>
     
 </div>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.miliceviic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandar-miliceviic) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@a_miliceviic) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aleksandarmiliceviic@gmail.com) 
