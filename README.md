@@ -20,7 +20,7 @@
 🎓 I’m currently studying at the University of Belgrade – Faculty of Organizational Sciences (FON)<br><br>💻 Currently working on: University projects and personal coding challenges<br><br>👯 Looking to collaborate on: Open-source projects, beginner-friendly repos, and hackathons<br><br>🤝 Looking for help with: Improving my Git/GitHub workflow and mastering backend development<br><br>🌱 Currently learning: Python, OOP in Java and data structures & algorithms<br><br>💬 Ask me about: My favorite tech stacks, productivity tips, or student life in tech
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials:
+# <h1> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials: </h1>
 <div align="center"> 
   <a href="https://linkedin.com/in/aleksandar-miliceviic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -44,7 +44,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Languages-Frameworks-Tools:
+### <h1> <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Languages-Frameworks-Tools: </h1>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,r,bash,powershell,html,css,javascript" />
     <img src="https://skillicons.dev/icons?i=git,github,flask,django,mongodb,mysql,sqlite,postgres,spring,angular,react,wordpress" /><br>
@@ -52,10 +52,21 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Aleksandar's github stats](https://github-readme-stats.vercel.app/api?username=amiliceviic&theme=dark&hide_border=false&include_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiliceviic&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/amiliceviic/github-readme-stats)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=amiliceviic&theme=dark&hide_border=false)](https://git.io/streak-stats)
+<div align="center">
+  <h1>🐍 My Contributions 🐍</h1>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amiliceviic/amiliceviic/output/github-contribution-grid-snake.svg" />
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### <h1 align="center"> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /></h1>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=amiliceviic&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=amiliceviic&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiliceviic&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
