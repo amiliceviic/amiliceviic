@@ -70,12 +70,16 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🏆 GitHub Trophies
+### <h1 align="center">🏆 GitHub Trophies 🏆</h1>
 ![](https://github-profile-trophy.vercel.app/?username=amiliceviic&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;+SSShoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab!" />
+</h1>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
