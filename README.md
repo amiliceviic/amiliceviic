@@ -17,7 +17,7 @@
 
 # <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:</h1>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-🎓 I’m currently studying at the University of Belgrade – Faculty of Organizational Sciences (FON)<br><br>💻 Currently working on: University projects and personal coding challenges<br><br>👯 Looking to collaborate on: Open-source projects, beginner-friendly repos, and hackathons<br><br>🤝 Looking for help with: Improving my Git/GitHub workflow and mastering backend development<br><br>🌱 Currently learning: Python, OOP in Java and data structures & algorithms<br><br>💬 Ask me about: My favorite tech stacks, productivity tips, or student life in tech
+🎓 I’m currently studying at the University of Belgrade – Faculty of Organizational Sciences (FON)<br><br>💼 Previously: Data Engineering Intern at Functors<br><br>💻 Currently working on: Projects in Java, Scala, .NET, big data systems and personal coding challenges<br><br>👯 Looking to collaborate on: System design and building scalable backend services<br><br>🌱 Currently learning: Distributed systems, big data architectures, C#/.NET and data structures & algorithms<br><br>💬 Ask me about: Java, Scala, C#, backend development, or student life in tech
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # <h1> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials: </h1>
